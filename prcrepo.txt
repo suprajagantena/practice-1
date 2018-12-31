@@ -1,1 +1,1 @@
-This is a new practice git repo
+This is a temp file create for the initial git commit.
